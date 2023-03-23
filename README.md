@@ -18,6 +18,7 @@
   <a href="mailto:fransmofilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fransergio-morato-3213a124a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  ##
   <div>
   <br><br><p><img align="center" src="https://icons.iconarchive.com/icons/ph03nyx/super-mario/32/Retro-Mushroom-Super-3-icon.png" width="32" height="32"><strong> Análise e Desenvolvimento de Sistemas - Aluno da FATEC Franca. </strong></p>
   <p><img align="center" src="https://icons.iconarchive.com/icons/ph03nyx/super-mario/48/Retro-Mushroom-1UP-3-icon.png" width="32" height="32"><strong> 
