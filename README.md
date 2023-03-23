@@ -2,7 +2,7 @@
 
 - 🌱 Cursando ADS- Analise e Desenvolvimento de Sistemas na Fatec Franca
 - 📫 Contate-me no email: fransmofilho@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ofrans&show_icons=false&theme=github_dark">
