@@ -24,5 +24,5 @@
 Atualmente trabalhando em HTML e CSS. <strong></p>
   <p><img align="center" src="https://icons.iconarchive.com/icons/ph03nyx/super-mario/32/Retro-Block-icon.png" width="32" height="32"><strong> Projetos Recentes: </strong>
   <a target="_blank" href="https://github.com/Ofrans/Portugol"> Portugol <img align="center" src="https://icons.iconarchive.com/icons/ph03nyx/super-mario/32/Retro-Coin-icon.png" width="32" height="32"> </a> 
-  <a target="_blank" href=""><img align="center" src="https://icons.iconarchive.com/icons/ph03nyx/super-mario/32/Retro-Coin-icon.png" width="32" height="32"> </a></p>
+  <a target="_blank" href="https://github.com/Ofrans/Projetos-Web"> Web <img align="center" src="https://icons.iconarchive.com/icons/ph03nyx/super-mario/32/Retro-Coin-icon.png" width="32" height="32"> </a></p>
 </div>
