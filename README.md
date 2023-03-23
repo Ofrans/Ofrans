@@ -8,7 +8,7 @@
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ofrans&show_icons=false&theme=github_dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrans&theme=github_dark&layout=compactut=compact">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrans&theme=github_dark&layout=compact">
 <div>
   
 ##
