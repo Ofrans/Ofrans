@@ -31,7 +31,7 @@
  <div>
   <br><br><p><img align="center" src="https://icons.iconarchive.com/icons/ph03nyx/super-mario/32/Retro-Mushroom-Super-3-icon.png" width="32" height="32"><strong> Análise e Desenvolvimento de Sistemas - Aluno da FATEC Franca. </strong></p>
   <p><img align="center" src="https://icons.iconarchive.com/icons/ph03nyx/super-mario/48/Retro-Mushroom-1UP-3-icon.png" width="32" height="32"><strong> 
-Atualmente trabalhando em HTML e CSS. <strong></p>
+Atualmente trabalhando em PYTHON, HTML e CSS. <strong></p>
   <p><img align="center" src="https://icons.iconarchive.com/icons/ph03nyx/super-mario/32/Retro-Block-icon.png" width="32" height="32"><strong> Projetos Recentes: </strong>
   <a target="_blank" href="https://github.com/Ofrans/Curso-ADA-Data-Science"> ADA - Data Science <img align="center"  src="https://icons.iconarchive.com/icons/ph03nyx/super-mario/32/Retro-Coin-icon.png" width="32" height="32"> </a></p>
   <a target="_blank" href="https://github.com/Ofrans/Faculdade-Fatec-ADS"> Faculdade <img align="center" src="https://icons.iconarchive.com/icons/ph03nyx/super-mario/32/Retro-Coin-icon.png" width="32" height="32"> </a></p>
